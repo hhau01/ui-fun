@@ -16,4 +16,6 @@ Make fun UI components with CSS and JavaScript
 
 ## Menu
 
-[Navbar Arrow Selector](https://hhau01.github.io/ui-fun/menus/arrow-selector.html)
+[Arrow Selector Navbar](https://hhau01.github.io/ui-fun/menus/arrow-selector-nb.html)
+
+[Bounce Rectangle Selector Navbar](https://hhau01.github.io/ui-fun/menus/bounce-rect-nb.html)
