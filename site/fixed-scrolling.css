@@ -1,0 +1,31 @@
+/** {
+    margin: 0;
+}*/
+
+html, body {
+    height: 100%;
+}
+
+/*h1, h2, p {
+    margin-bottom: 20px;
+}*/
+
+nav {
+    height: 50px;
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.section {
+    height: 100%;
+    background-color: crimson;
+}
+
+.subSection1 {
+    height: 50%;
+    background-color: gold;
+}
+
+.subSection2 {
+    height: 50%;
+    background-color: springgreen;
+}
