@@ -6,7 +6,7 @@ Make fun UI components with CSS and JavaScript
 
 [St. Patrick's Day Button](https://hhau01.github.io/ui-fun/buttons/st-patricks-day.html)
 
-[Double Slide-In Button](https://hhau01.github.io/ui-fun/dbl-slide-in.html) - Maybe I'll use this one for a site
+[Double Slide-In Button](https://hhau01.github.io/ui-fun/buttons/dbl-slide-in.html) - Maybe I'll use this one for a site
 
 ## Icons
 
