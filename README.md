@@ -27,7 +27,11 @@ Make fun UI components with CSS and JavaScript
 
 ### Hamburger Navbars
 
+[Fixed Vertical Circle Menu](https://hhau01.github.io/ui-fun/menus/fixed-vertical-circle.html)
+
 [Slide In Navbar](https://hhau01.github.io/ui-fun/menus/slide-in-nav-hb.html)
+
+[Slide In Reveal Animated](https://hhau01.github.io/ui-fun/menus/slide-reveal-hb.html)
 
 [SVG Animated Hamburger*](https://hhau01.github.io/ui-fun/menus/svg-animate-hb.html)
 
