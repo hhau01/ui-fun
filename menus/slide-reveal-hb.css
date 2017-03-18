@@ -165,6 +165,12 @@ section {
     font-family: 'Alegreya Sans', sans-serif;
 }
 
+.title {
+    font-size: 1.2em;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+
 .content {
     position: absolute;
     color: #fff;
