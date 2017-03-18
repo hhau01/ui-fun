@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Slide In Navbar for Mobile</title>
+    <link rel="stylesheet" href="slide-in-nav-hb.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="nav" id="nav">
+            <a href="javascript:void(0)" class="close" onClick="closeNav()">&times;</a>
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Portfolio</a>
+            <a href="#">Contact</a>
+        </div>
+
+        <!-- hamburger menu -->
+        <span id="open" class="open" onClick="openNav()">&#9776</span>
+
+        <h1>Slide-in Mobile Navbar</h1>
+        <a href="#" class="btn-one">Learn More</a>
+    </div>
+<script>
+    function openNav() {
+        document.getElementById("open").style.display = "none";
+        document.getElementById("nav").style.width = "100%";
+    }
+
+    function closeNav() {
+        document.getElementById("nav").style.width = "0";
+        document.getElementById("open").style.display = "block";
+    }
+
+    document.onkeypress = function(event) {
+        event = event || window.event;
+        if(event.keyCode == 27) {
+            closeNav();
+        }
+    }
+
+</script>
+</body>
+</html>
