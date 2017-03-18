@@ -13,6 +13,10 @@ Make fun UI components with CSS and JavaScript
 
 [Social Media Circle Animation](https://hhau01.github.io/ui-fun/icons/social-hover.html)
 
+## Images
+
+[Two Color Hover Text Overlay](https://hhau01.github.io/ui-fun/images/two-color-hover.html)
+
 ## Menu
 
 [Arrow Selector Navbar](https://hhau01.github.io/ui-fun/menus/arrow-selector-nb.html)
