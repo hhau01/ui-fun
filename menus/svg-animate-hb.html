@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>SVG Burger Animation</title>
+    <link rel="stylesheet" href="svg-animate-hb.css">
+</head>
+<body>
+    <div class="container">
+        <svg width='100px' height='100px'>
+            <path id='first' d='M 30 40 L 70 40 C 90 40 90 75 60 85 A 40 40 0 0 1 20 20 L 80 80'></path>
+            <path id='middle' d='M 30 50 L 70 50'></path>
+            <path id='last' d='M 70 60 L 30 60 C 10 60 10 20 40 15 A 40 38 0 1 1 20 80 L 80 20'></path>
+        </svg>
+        <div class="trigger"></div>
+    </div>
+
+    <script
+			  src="https://code.jquery.com/jquery-3.2.0.min.js"
+			  integrity="sha256-JAW99MJVpJBGcbzEuXk4Az05s/XyDdBomFqNlM3ic+I="
+			  crossorigin="anonymous"></script>
+    <script src='../moveit/moveit.js'></script>
+    <script src='svg-animate-hb.js'></script>
+</body>
+</html>
