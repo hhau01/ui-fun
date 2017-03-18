@@ -1,0 +1,16 @@
+svg path {
+    stroke: #000;
+    stroke-width: 5;
+    fill: none;
+    stroke-linecap: round;
+}
+
+.success {
+    stroke: red;
+    stroke-width: 5;
+}
+
+.error, .error2 {
+    stroke: green;
+    stroke-width: 5;
+}
