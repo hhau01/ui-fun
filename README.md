@@ -14,6 +14,8 @@ Make fun UI components with CSS and JavaScript
 
 [Different Sized Animated Hamburger](https://hhau01.github.io/ui-fun/pages/three-mid-short-hb.html)
 
+[Parallax Effect](https://hhau01.github.io/ui-fun/pages/parallax-effect.html)
+
 ## Buttons
 
 [Double Slide-In](https://hhau01.github.io/ui-fun/buttons/dbl-slide-in.html)
