@@ -2,7 +2,20 @@
 
 Make fun UI components with CSS and JavaScript
 
+## Pages
+
+[Fixed Vertical Circle Menu](https://hhau01.github.io/ui-fun/pages/fixed-vertical-circle.html)
+
+[Fixed Scroll Menu](https://hhau01.github.io/ui-fun/pages/fixed-scroll-menu.html)
+
+[Slide In Navbar](https://hhau01.github.io/ui-fun/pages/slide-in-nav-hb.html)
+
+[Slide In Reveal Animated](https://hhau01.github.io/ui-fun/pages/slide-reveal-hb.html)
+
+[Different Sized Animated Hamburger](https://hhau01.github.io/ui-fun/pages/three-mid-short-hb.html)
+
 ## Buttons
+
 [Double Slide-In](https://hhau01.github.io/ui-fun/buttons/dbl-slide-in.html)
 
 [3D Name Flip](https://hhau01.github.io/ui-fun/buttons/flip-button.html)
@@ -25,14 +38,5 @@ Make fun UI components with CSS and JavaScript
 
 [Underlined Selector Navbar](https://hhau01.github.io/ui-fun/menus/underline-nb.html)
 
-### Hamburger Navbars
-
-[Fixed Vertical Circle Menu](https://hhau01.github.io/ui-fun/menus/fixed-vertical-circle.html)
-
-[Slide In Navbar](https://hhau01.github.io/ui-fun/menus/slide-in-nav-hb.html)
-
-[Slide In Reveal Animated](https://hhau01.github.io/ui-fun/menus/slide-reveal-hb.html)
-
 [SVG Animated Hamburger*](https://hhau01.github.io/ui-fun/menus/svg-animate-hb.html)
 
-[Different Sized Animated Hamburger](https://hhau01.github.io/ui-fun/menus/three-mid-short-hb.html)
