@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.text1 h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 12em;
+    text-align: center;
+    margin: 250px auto;
+    text-transform: uppercase;
+    background: url('https://source.unsplash.com/hpZh7Pvs9mk');
+    /*background-size: cover;*/
+    /*background-attachment: fixed;*/
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    height: 100%;
+}
+
+.text2 h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 12em;
+    text-align: center;
+    margin: 750px auto 250px auto;
+    text-transform: uppercase;
+    background: url('https://source.unsplash.com/F4Q_-YiPY7U');
+    /*background-size: cover;*/
+    /*background-attachment: fixed;*/
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    height: 100%;
+}
