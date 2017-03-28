@@ -27,6 +27,7 @@ ul li:hover,
 .active {
     background: #fff;
     color: #333;
+    cursor: pointer;
 }
 
 .container {
